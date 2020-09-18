@@ -1,11 +1,11 @@
 # Site settings
 author: Travis Lee
-title: 
+title: My Programming Journey
 header-img: img/home-bg.png
 email: travisslee223@gmail.com
 copyright_name: Travis Lee
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Languages Upon Languages
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TravisSLee
