@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "HTTP Requests"
-date:       2020-11-10 02:56:29 +0000
+date:       2020-11-09 21:56:30 -0500
 permalink:  http_requests
 ---
 
@@ -66,4 +66,6 @@ Finally we have the DELETE verb. Its function is to request the server to delete
 ```
 
 So this snippet states after we find the bubbletea by id, we delete it along with its id and we get redirected to the '/bbts' route. Elsewise, we still get redirected to the '/bbts' route.
+
+So in conculsion, the browser sends a HTTP request to the server for a particle resource. The server analyzes  the message, then server sends back a response. Finally, this response contains status information about the request.
 
